@@ -142,3 +142,36 @@ h3 {
 .no-text-decor {
     text-decoration: none;
 }
+/** 4 step **/
+main {
+    text-align: center;
+}
+
+.margin-top-100 {
+    margin-top: 100px;
+}
+
+.margin-top-30 {
+    margin-top: 30px;
+}
+
+.video {
+    position: relative;
+
+    width: 919px;
+    height: 569px;
+    margin-top: 30px;
+
+    border: none;
+
+    filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
+}
+
+nav {
+    position: relative;
+    top: -100px;
+}
+
+.backgr-light {
+    background: var(--brown);
+}
