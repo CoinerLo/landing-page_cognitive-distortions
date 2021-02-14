@@ -133,10 +133,13 @@ h3 {
 
     border: none;
     
-    color: var(--white);
     font-weight: 700;
     font-family: 'opensans-bold', sans-serif;
     text-transform: uppercase;
+}
+
+.font-white {
+    color: var(--white);
 }
 
 .no-text-decor {
@@ -166,12 +169,67 @@ main {
 
     filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
 }
-
+/** 5 step **/
 nav {
     position: relative;
     top: -100px;
 }
 
-.backgr-light {
-    background: var(--brown);
+.padding-top-200 {
+    padding-top: 200px;
 }
+
+.nav-title {
+    width: 350px;
+
+    margin: 11px 8px;
+}
+
+.backgr-basic-dark {
+    background: var(--basic-dark);
+}
+
+.nav-items {
+    display: block;
+
+    width: 302px;
+    
+    margin: 11px 8px;
+    padding: 24px;
+    /**padding: 24px 24px 40px 24px;**/
+}
+
+.item-num {
+    padding-bottom: 40px;
+    font: 64px/1 'neucha', sans-serif;
+}
+
+.font-52 {
+    font-size: 52px;
+}
+
+.text-align-left {
+    text-align: left;
+}
+
+.font-dark {
+    color: var(--dark);
+}
+
+.margin-top-5 {
+    margin-top: 5px;
+}
+
+.margin-top-15 {
+    margin-top: 15px;
+}
+
+.nav-items:hover {
+    color: var(--white);
+    background: var(--basic);
+}
+
+.nav-items:hover span {
+    color: var(--white);
+}
+
