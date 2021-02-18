@@ -315,3 +315,81 @@ section {
     flex-direction: row-reverse;
 }
 
+/* 11 step */
+
+.padding-top-0 {
+    padding-top: 0;
+}
+
+.footer-block {
+    display: flex;
+
+    justify-content: space-between;
+
+    width: 100%;
+
+    padding: 55px;
+}
+
+.email-block {
+    position: relative;
+    top: 15px;
+    right: 80px;
+}
+
+.label-email {
+    position: absolute;
+    display: inline-block;
+    top: -33px;
+    left: 0;
+
+    font-size: 18px;
+}
+
+.field-email {
+    width: 423px;
+    height: 50px;
+
+    border: none;
+
+    padding-left: 15px;
+}
+
+.btn-footer {
+    position: absolute;
+    top: 0;
+    right: -70px;
+
+    width: 70px;
+    height: 50px;
+
+    background-color: var(--basic);
+
+    border: none;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-footer::before {
+    width: 20px;
+    height: 20px;
+
+    background: no-repeat url(../img/send.png);
+    background-size: cover;
+
+    content: "";
+}
+
+.footer-contact {
+    margin-top: 60px;
+    width: 100%;
+
+    font-size: 14px;
+    text-align: center;
+}
+
+.font-size-12 {
+    font-size: 12px;
+}
