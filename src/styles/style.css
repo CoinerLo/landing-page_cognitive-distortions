@@ -73,6 +73,10 @@ h3 {
   padding-bottom: 100px;
 }
 
+.padding-bottom-95 {
+  padding-bottom: 95px;
+}
+
 .backgr-over::before {
   position: absolute;
   top: 0;
