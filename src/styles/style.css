@@ -416,3 +416,15 @@ section {
 .font-size-12 {
   font-size: 12px;
 }
+
+.padding-top-16 {
+  padding-top: 16px;
+}
+
+.padding-bottom-11 {
+  padding-bottom: 11px;
+}
+
+.disp-b {
+  display: block;
+}
