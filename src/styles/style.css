@@ -428,3 +428,8 @@ section {
 .disp-b {
   display: block;
 }
+
+footer {
+  position: relative;
+  top: -100px;
+}
