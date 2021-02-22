@@ -48,6 +48,10 @@ h3 {
   font: 34px/1.2em 'neucha', sans-serif;
 }
 
+.backgr-white {
+  background: var(--white);
+}
+
 .backgr-light {
   background: var(--light);
 }
