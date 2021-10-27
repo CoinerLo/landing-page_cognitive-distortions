@@ -4,7 +4,7 @@
   "description": "Landing page 'Cognitive Distortions'",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoinerLo/layout-designer-project-lvl1.git"
+    "url": "git+https://github.com/CoinerLo/landing-page_cognitive-distortions.git"
   },
   "main": "index.js",
   "dependencies": {
@@ -21,9 +21,9 @@
   "author": "Igor' Lomakin <coiner4677@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CoinerLo/layout-designer-project-lvl1/issues"
+    "url": "https://github.com/CoinerLo/landing-page_cognitive-distortions/issues"
   },
-  "homepage": "https://github.com/CoinerLo/layout-designer-project-lvl1#readme",
+  "homepage": "https://github.com/CoinerLo/landing-page_cognitive-distortions#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
