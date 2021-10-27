@@ -1,8 +1,5 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/CoinerLo/layout-designer-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/CoinerLo/layout-designer-project-lvl1/actions)
+["Cognitive Distortions"](http://lamentable-journey.surge.sh)
 
+[![Node.js CI](https://github.com/CoinerLo/layout-designer-project-lvl1/actions/workflows/node.js.yml/badge.svg)](https://github.com/CoinerLo/frontend-project-lvl4/actions/workflows/node.js.yml)
 
-Hey! My name is Igor Lomakin! And this is my first project with the Hexlet team. It was a very interesting and extensive experience. I recommend to everyone!
-
-
-Here's what happened as a result: http://lamentable-journey.surge.sh
+Landing page "Cognitive Distortions" produced using Flex and layout in the Figma service. Native HTML and CSS is used. Deployed in the Surge service. 

@@ -1,10 +1,10 @@
 {
-  "name": "html5-css-boilerplate",
-  "version": "0.1.0",
-  "description": "HTML5/CSS Boilerplate with HTMLHint and StyleLint",
+  "name": "cognitive_distortions",
+  "version": "1.0.0",
+  "description": "Landing page 'Cognitive Distortions'",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hexlet-boilerplates/html-boilerplate.git"
+    "url": "git+https://github.com/CoinerLo/layout-designer-project-lvl1.git"
   },
   "main": "index.js",
   "dependencies": {
@@ -18,12 +18,12 @@
     "stylelint-order": "^4.1.0",
     "surge": "^0.21.7"
   },
-  "author": "Nikita Mikhaylov",
+  "author": "Igor' Lomakin <coiner4677@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hexlet-boilerplates/html-boilerplate/issues"
+    "url": "https://github.com/CoinerLo/layout-designer-project-lvl1/issues"
   },
-  "homepage": "https://github.com/hexlet-boilerplates/html-boilerplate#readme",
+  "homepage": "https://github.com/CoinerLo/layout-designer-project-lvl1#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
